@@ -1,0 +1,15 @@
+.about {
+    margin-top: 78px;
+    margin-bottom: 143px;
+}
+.about .description{
+    margin: 21px 0 28px;
+}
+.about__row {
+    flex-wrap: wrap;
+}
+
+.about__siptitle {
+    margin-top: 67px;
+    margin-bottom: 19px;
+}

@@ -1,0 +1,23 @@
+.construction {
+    text-align: center;
+    
+}
+.construction__title {
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 48px;
+    text-align: center;
+    color: var(--color-black);
+
+}
+.construction__text {
+    margin: 16px 0px 40px;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 32px;
+    text-align: center;
+    color: var(--color-black);
+}
+.construction__image{
+    max-width: 100%;
+}

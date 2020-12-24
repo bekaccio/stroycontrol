@@ -1,0 +1,26 @@
+.features {
+    background: #212B31;
+    margin: 144px 0px 143px;
+    padding-top: 143px; 
+}
+.features__title {
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 48px;
+    color: var(--color-white);
+}
+.features__suptitle {
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 24px;
+    color: var(--color-white);
+}
+.features__text {
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: var(--color-gray-2);
+}
+.features__img {
+    min-width: 618px;
+}

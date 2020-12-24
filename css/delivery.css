@@ -1,0 +1,29 @@
+.delivery .description {
+    margin: 21px 0 43px;
+}
+.delivery__row{
+    flex-wrap: wrap;
+    margin: -16px -14px;
+}
+.delivery__item {
+    align-items: flex-start;
+    display: flex;
+    padding: 16px 14px;
+}
+.delivery__info {
+    margin: 0px 0px 11px 16px;
+}
+.delivery__suptitle {
+    margin-bottom: 11px;
+}
+.delivery__footer {
+    margin-top: 22px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 143px;
+}
+.delivery__footer span{
+    font-size: 20px;
+    line-height: 32px;
+    color: var(--color-gray);
+}

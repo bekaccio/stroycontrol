@@ -1,0 +1,30 @@
+.control {
+    margin: 168px 0 0px;
+    padding-bottom: 56px;
+}
+.control__title,
+.control__suptitle {
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 48px;
+    color: var(--color-black);
+}
+.control .col-6 {
+    margin-top: 168px;
+}
+.control__title {
+    text-align: center;
+}
+.control__description {
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 32px;
+    color: var(--color-gray);
+    margin: 16px 0 28px 0;
+}
+
+
+.control__image {
+    max-width: 464px;
+    margin-bottom: 137px;
+}

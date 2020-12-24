@@ -1,0 +1,39 @@
+.reliability__description {
+    margin: 17px 0 48px;
+}
+.reliability__suptitle {
+    margin: 19px 0px 11px;
+} 
+.reliability__item {
+    text-align: center;
+    padding: 0 16px
+}
+.reliability__title{
+    position: relative;
+    width: 197px;
+    margin: 0 auto;
+}
+.reliability__title::before {
+    content: '';
+    position: absolute;
+    width: 43px;
+    height: 42px;
+    background-image: url(../images/reliability-icon.svg);
+    right: -38px;
+    top: -20px;
+}
+.reliability__footer {
+    margin-top: 62px;
+    align-items: center;
+    padding: 46px 42px;
+    background: #f6f8f9;
+    border-radius: 5px;
+}
+.reliability__detail {
+    white-space: nowrap;
+    margin: 0 66px 0 26px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 32px;
+    color: var(--color-black);
+}
